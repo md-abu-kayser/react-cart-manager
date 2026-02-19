@@ -1,4 +1,4 @@
-# React Cart Manager - LocalStorage + DataUI
+# React Cart Manager - LocalStorage & Data-Driven UI
 
 A small, well-structured React demo app that demonstrates component composition, simple client-side data fetching, and localStorage-based cart utilities. It was bootstrapped with Create React App and is intended as a polished portfolio piece.
 
